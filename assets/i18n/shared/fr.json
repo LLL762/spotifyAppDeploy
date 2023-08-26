@@ -1,0 +1,20 @@
+{
+  "favorites": {
+    "add": "Ajouter aux favoris",
+    "rm": "Enlever des favoris"
+  },
+  "spotify": {
+    "link": "Voir Spotify"
+  },
+  "playlist": {
+    "add": "Ajouter à une playlist",
+    "close": "fermer"
+  },
+  "audio": {
+    "open": "ouvrir",
+    "close": "fermer",
+    "play": "play",
+    "pause": "pause",
+    "no_preview": "pas d'extrait"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "album": {
+    "release_date": "sortie",
+    "total_tracks": "nombre titres",
+    "type": "type",
+    "artists": "artistes"
+  }
+}

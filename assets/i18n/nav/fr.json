@@ -1,0 +1,45 @@
+{
+  "title": "titre",
+  "settingsMenu": {
+    "language": {
+      "label": "Langue",
+      "title": "Choisir la langue"
+    },
+    "rememberMe": {
+      "label": "Se souvenir de moi",
+      "tooltip": "La prochaine fois que vous lancerez l'app, vous n'aurez pas besoin d'entrez vos identifiants Spotify"
+    },
+    "theme": {
+      "label": "Thème",
+      "light": "Clair",
+      "dark": "Sombre"
+    },
+    "user": {
+      "country": "Pays",
+      "goSpotify": "Voir votre compte Spotify"
+    },
+    "logOut": "Se déconnecter",
+    "tooltip": "Préférences"
+  },
+  "search": {
+    "placeholder": "Rechercher",
+    "submitTooltip": "Rechercher",
+    "cancel": "Annuler",
+    "filters": {
+      "title": "Afficher les filtres",
+      "all": "tous",
+      "album": "album",
+      "artist": "artiste",
+      "episode": "episode",
+      "playlist": "playlist",
+      "show": "série",
+      "track": "morceau"
+    }
+  },
+  "logo": {
+    "tooltip": "Aller sur Spotify"
+  },
+  "sideMenu": {
+    "openTooltip": "Ouvrir le menu de navigation"
+  }
+}

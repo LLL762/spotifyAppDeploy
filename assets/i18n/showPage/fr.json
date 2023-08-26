@@ -1,0 +1,10 @@
+{
+  "show": {
+    "media": "media",
+    "publisher": "éditeur",
+    "total_episodes": "nombre d'épisode",
+    "safe_content": "safe",
+    "not_safe_content": "contenu adulte",
+    "img_alt": "couverture"
+  }
+}

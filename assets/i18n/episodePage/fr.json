@@ -1,0 +1,19 @@
+{
+  "episode": {
+    "show": "podcast",
+    "release": "sortie",
+    "duration": "durée",
+    "safe_content": "safe",
+    "not_safe_content": "contenu adulte",
+    "playable": "jouable",
+    "not playable": "pas jouable",
+    "extern": "externe",
+    "img_alt": "couverture"
+  },
+  "show": {
+    "media": "media",
+    "publisher": "éditeur",
+    "total_episode": "nombre d'épisode",
+    "img_alt": "couverture"
+  }
+}
