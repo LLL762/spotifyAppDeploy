@@ -1,0 +1,13 @@
+{
+  "welcome": "Bienvenue",
+  "intro": {
+    "title": "Introduction :",
+    "text": "Projet Angular utilisant l'api de spotify."
+  },
+  "guide": {
+    "title": "Guide :",
+    "p1": "Il faut être connecté pour accéder au contenu, un compte Spotify est requis.",
+    "p2": "Réglez vos préférences grâce au menu en haut à droite",
+    "p3": "Naviguez grâce au menu 'hamburger' en haut à gauche"
+  }
+}
