@@ -40,6 +40,9 @@
     "tooltip": "Aller sur Spotify"
   },
   "sideMenu": {
-    "openTooltip": "Ouvrir le menu de navigation"
+    "openTooltip": "Ouvrir le menu de navigation",
+    "home": "Acceuil",
+    "albums": "Albums",
+    "playlists": "Playlists"
   }
 }
