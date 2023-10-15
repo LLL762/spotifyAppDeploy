@@ -8,7 +8,12 @@
   },
   "playlist": {
     "add": "Ajouter à une playlist",
-    "close": "fermer"
+    "close": "fermer",
+    "public": "Public",
+    "private": "Privée",
+    "irrelevant": "Non spécifié",
+    "collaborative": "Collaboratif",
+    "notCollaborative": "Non collaboratif"
   },
   "audio": {
     "open": "ouvrir",
