@@ -21,5 +21,6 @@
     "play": "play",
     "pause": "pause",
     "no_preview": "pas d'extrait"
-  }
+  },
+  "scrollToTop": "Défiler jusqu'en haut"
 }
