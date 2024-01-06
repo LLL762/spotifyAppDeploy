@@ -44,5 +44,18 @@
     "home": "Acceuil",
     "albums": "Albums",
     "playlists": "Playlists"
+  },
+  "navMenu": {
+    "playlists": {
+      "title": "Playlists",
+      "main": "Main",
+      "my": "Mes playlists",
+      "featured": "En vedette"
+    },
+    "albums": {
+      "title": "Albums",
+      "main": "Main",
+      "news": "Nouveauté"
+    }
   }
 }

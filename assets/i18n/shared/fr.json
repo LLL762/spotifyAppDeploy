@@ -1,7 +1,8 @@
 {
   "favorites": {
     "add": "Ajouter aux favoris",
-    "rm": "Enlever des favoris"
+    "rm": "Enlever des favoris",
+    "err": "Erreur cliquez pour réessayer"
   },
   "spotify": {
     "link": "Voir Spotify"
