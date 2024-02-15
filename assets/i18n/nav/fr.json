@@ -5,6 +5,10 @@
       "label": "Langue",
       "title": "Choisir la langue"
     },
+    "font": {
+      "label": "Police de caractères",
+      "title": "Choisir la police"
+    },
     "rememberMe": {
       "label": "Se souvenir de moi",
       "tooltip": "La prochaine fois que vous lancerez l'app, vous n'aurez pas besoin d'entrez vos identifiants Spotify"

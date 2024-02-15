@@ -21,7 +21,9 @@
     "close": "fermer",
     "play": "jouer",
     "pause": "pause",
-    "no_preview": "pas d'extrait"
+    "no_preview": "pas d'extrait",
+    "mute": "coupez",
+    "unmute": "rétablir"
   },
   "scrollToTop": "Défiler jusqu'en haut"
 }
