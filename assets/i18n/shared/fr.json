@@ -25,5 +25,11 @@
     "mute": "coupez",
     "unmute": "rétablir"
   },
+  "resource": {
+    "fallbacks": {
+      "description": "Pas de description",
+      "name": "Pas de nom"
+    }
+  },
   "scrollToTop": "Défiler jusqu'en haut"
 }
